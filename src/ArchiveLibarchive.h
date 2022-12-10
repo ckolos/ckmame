@@ -34,12 +34,13 @@
   IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-#include "Archive.h"
 
 #include <archive.h>
 
-#include <utility>
 #include <optional>
+#include <utility>
+
+#include "Archive.h"
 
 class ArchiveLibarchive : public Archive {
 public:
