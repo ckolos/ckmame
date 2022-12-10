@@ -4,6 +4,7 @@
 
 #include "Output.h"
 
+#include "compat.h"
 #include "globals.h"
 
 Output::Output() :

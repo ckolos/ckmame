@@ -36,6 +36,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <fnmatch.h>
 
 #include "config.h"
+#include "compat.h"
 
 #include "Exception.h"
 #include "globals.h"
