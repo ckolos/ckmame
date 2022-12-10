@@ -34,6 +34,7 @@
  */
 
 #include "DB.h"
+#include <optional>
 
 class DatDB;
 

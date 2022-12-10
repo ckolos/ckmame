@@ -37,6 +37,7 @@
 #include <filesystem>
 #include <unordered_set>
 #include <utility>
+#include <optional>
 
 #include "Archive.h"
 #include "SharedFile.h"

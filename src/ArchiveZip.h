@@ -37,6 +37,7 @@
 #include <zip.h>
 
 #include <utility>
+#include <optional>
 
 #include "Archive.h"
 

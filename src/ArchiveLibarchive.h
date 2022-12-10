@@ -39,6 +39,7 @@
 #include <archive.h>
 
 #include <utility>
+#include <optional>
 
 class ArchiveLibarchive : public Archive {
 public:
